@@ -1,0 +1,158 @@
+#menu1 {
+	background: grey;
+	width: 1330px;
+	height: 600px;
+	margin:10px;
+	border-radius: 10px;
+}
+#left1 {
+	background: lavender;
+	float: left;
+	width: 240px;
+	margin:5px;
+	height: 590px;
+	border-radius: 10px;
+}
+.left_sctroll 
+{
+	background: lavender;
+	float: left;
+	width: 240px;
+	height: 540px;
+    overflow:auto;
+    border-radius: 10px;
+}
+#right1 {
+	background: #BDB76B;
+	float:left;
+	width: auto;
+	height: 600px;
+	border-bottom: 1px solid black;
+	border-top: 1px solid black;
+	background-image: url('uploads/anh1.jpg');
+    border-radius: 10px;
+}
+#top1 {
+	background: white;
+	float:left;
+	width: 1070px;
+	height: 45px;
+	margin : 4px;
+	border-radius: 5px;
+	
+}
+#Search {
+	background: grey;
+	float: left;
+	width: 770px;
+	height: 30px;
+    margin: 5px ;
+    border-radius: 10px;
+}
+#Login {
+	background: #B0E2FF;
+	float:left;
+	width: 280px;
+	height: 35px;
+	margin: 5px;
+	border-radius: 5px;
+}
+#avatar 
+{
+	float:left;
+	width: 60px;
+	height: 35px;
+	background-color:#B0E2FF;
+	border-radius: 5px 0px 0px 5px;
+	border: 1px solid black;
+	display: block;
+}
+#avatar img {
+	width: 33px;
+	height: 33px;
+	border-radius: 100%;
+	margin: 0px 7px 0px 9px;
+	display: block;
+}
+#account_name 
+{
+	float:left;
+	width: 180px;
+	height: 35px;
+	border: 1px solid black;
+	padding: 5px 5px 7px 35px;
+}
+#account_rules
+{
+	float:left;
+	width: 40px;
+	height: 35px;
+	border: 1px solid black;
+	border-radius:0px 5px 5px 0px;
+	padding: 5px 10px 5px 13px;
+	background-color: #B0E2FF;
+}
+#right_middle 
+{
+	background: white;
+	float:left;
+	width: 1070
+	height: 555px;
+	margin : 5px 3px 5px 2px;
+	border-radius: 5px;
+	border: 1px solid black;
+}
+
+#table
+{
+	overflow: auto;
+	text-align: center;
+}
+.alert
+{
+	height: 40%;
+
+}
+
+#table-scroll
+{
+	overflow: scroll;
+
+}
+#content
+{
+ float:left;
+ width: 1060px;
+ height: 400px;	
+ background-color:white;
+ border-radius: 5px;
+ margin: 0px 5px 10px 2px;
+ border: 1px solid black;
+ overflow: auto;
+ text-align: center;
+ font-family: Calibri;
+ 
+}
+#avatar img {
+	width: 33px;
+	height: 33px;
+	border-radius: 100%;
+	margin: 0px 7px 0px 9px;
+	display: block;
+}
+#table_sql
+{
+
+}
+#bottom_button
+{
+	float:left;
+}
+.modal-header
+{
+	background: #025392;
+	color: #fff;
+	text-transform:uppercase;
+}
+
+
